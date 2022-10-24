@@ -1,0 +1,120 @@
+Timestamp,Name,Age,Gender,Occupation,Location,Preferred Mode of Payment,Mode of Payment pre covid,Preferred platform for UPI payment,Average Amount Paid Monthly through the preferred mode,Mode of payment for small amount of transactions (< Rs. 500 ),Number of unsuccessful transactions per 5 transactions,Feedback regarding online payment
+9/14/2022 16:00:46,Debaleena Deb,21,Male,Student,Assam,BHIM/UPI,Cash,Google Pay,7000,UPI,0,Satisfied
+9/13/2022 16:49:58,Niloy Saha ,21,Male,Student,Assam,BHIM/UPI,Cash,PhonePe,3000,UPI,0,Satisfied
+9/14/2022 6:28:50,Supriya Deb ,21,Female,Student,Assam,BHIM/UPI,Cash,PhonePe,500,UPI,1,Satisfied
+9/13/2022 16:36:25,Papree Ghose ,22,Female,Student,Assam,BHIM/UPI,Cash,PhonePe,2000,UPI,2,Satisfied
+9/13/2022 16:45:35,Sourav Das ,22,Male,Student,Assam,BHIM/UPI,Cash,Google Pay,2000,UPI,0,Satisfied
+9/13/2022 16:57:12,Ratnadeep Bhattacharjee,22,Male,Student,Assam,BHIM/UPI,Cash,Google Pay,100,Cash,4,Average
+9/16/2022 16:27:23,Subhadeep Purkayastha ,22,Male,Student,Assam,BHIM/UPI,BHIM/UPI,Amazon Pay,5000,UPI,1,Satisfied
+9/14/2022 14:04:50,Arkajit Das,22,Male,Student,Assam,BHIM/UPI,Cash,PhonePe,1000,UPI,1,Average
+9/13/2022 18:04:22,Rio,23,Male,Student,Assam,BHIM/UPI,Cash,PhonePe,3000,UPI,0,Satisfied
+9/14/2022 9:33:23,Dhiman Rai Dastidar ,23,Male,Student,Assam,BHIM/UPI,Cash,Google Pay,2000,UPI,2,Satisfied
+9/14/2022 14:43:17,Swarmista Paul ,23,Female,Student,Assam,BHIM/UPI,Cash,PhonePe,1000,UPI,0,Average
+9/14/2022 14:47:19,Adhiraj Roy,23,Male,Student,Assam,BHIM/UPI,Card,Google Pay,5000,UPI,4,Satisfied
+9/14/2022 16:59:00,Akash,23,Male,Other,Assam,BHIM/UPI,Cash,PhonePe,100,UPI,1,Satisfied
+9/14/2022 0:12:54,Shounik Gupta ,24,Male,Student,Assam,BHIM/UPI,Cash,PhonePe,1000,Cash,1,Satisfied
+9/14/2022 14:07:15,Muhi Uddin Hazari ,24,Male,Service,Assam,BHIM/UPI,BHIM/UPI,PhonePe,10000,UPI,1,Satisfied
+9/14/2022 17:06:33,Naman das,24,Male,Other,Assam,BHIM/UPI,Cash,PhonePe,8000,UPI,0,Satisfied
+9/13/2022 17:03:54,Paramita Paul ,30,Female,Other,Assam,Cash,Cash,PhonePe,10000,Cash,0,Average
+9/13/2022 16:51:17,Dipak Dasgupta,45,Male,Service,Assam,Net Banking,Cash,Paytm Payments Bank App,25000,Cash,0,Satisfied
+9/13/2022 16:51:43,Purnendu Ghose,54,Male,Service,Assam,BHIM/UPI,Card,Google Pay,7000,Cash,0,Satisfied
+9/15/2022 11:59:53,Ananya Pandit,22,Female,Student,Assam,BHIM/UPI,BHIM/UPI,Google Pay,3000,Cash,1,Unsatisfied
+9/13/2022 17:16:27,Bishwajit Ghose ,45,Male,Service,Assam,BHIM/UPI,Card,Google Pay,10000,UPI,1,Average
+9/13/2022 17:15:20,saurabh suman ,29,Male,Service,Bihar,BHIM/UPI,Cash,Google Pay,15000,Cash,1,Unsatisfied
+9/14/2022 11:22:35,Soumesh,26,Male,Service,Delhi,BHIM/UPI,BHIM/UPI,Google Pay,15000,UPI,1,Satisfied
+9/13/2022 16:58:10,Kamonasish Dutta,36,Male,Service,Delhi,BHIM/UPI,Card,Paytm Payments Bank App,12000,UPI,0,Satisfied
+9/13/2022 17:36:57,Nirmalya,27,Male,Student,Gujarat,BHIM/UPI,Cash,Google Pay,10000,UPI,1,Satisfied
+9/13/2022 17:37:49,Rehaan Roy ,29,Male,Service,Jharkhand ,BHIM/UPI,BHIM/UPI,Google Pay,10000,UPI,1,Satisfied
+9/15/2022 3:09:52,Shrikanta,25,Male,Service,Karnataka,BHIM/UPI,BHIM/UPI,PhonePe,80000,Cash,0,Satisfied
+9/13/2022 18:35:10,Shipra,29,Female,Service,Karnataka,BHIM/UPI,Cash,PhonePe,15000,UPI,2,Average
+9/13/2022 17:31:48,Roshni Biswas,30,Female,Service,Karnataka,BHIM/UPI,Card,Google Pay,30000,UPI,1,Satisfied
+9/14/2022 15:19:01,Tridip,30,Male,Service,Karnataka,Card,Card,Google Pay,20000,UPI,0,Average
+9/14/2022 14:37:23,Argha Tilak Sen ,35,Male,Service,Karnataka,BHIM/UPI,Card,PhonePe,100000,UPI,1,Average
+9/13/2022 23:25:46,Aravind V,27,Male,Service,Kerala,BHIM/UPI,Card,Amazon Pay,10000,UPI,0,Satisfied
+9/13/2022 22:45:50,Sagnik Sarkar,29,Male,Service,"London, UK",BHIM/UPI,Card,PhonePe,100,UPI,1,Satisfied
+9/13/2022 17:24:14,Dibyarup Mukherjee,32,Male,Service,"London, UK",BHIM/UPI,BHIM/UPI,PhonePe,5000,UPI,0,Satisfied
+9/13/2022 16:20:16,Pratyaay sarkar,25,Male,Other,Maharastra,BHIM/UPI,BHIM/UPI,Google Pay,2000,UPI,1,Satisfied
+9/13/2022 17:07:47,Rituparna Chakraborty ,28,Female,Service,Maharastra,BHIM/UPI,Cash,PhonePe,50000,UPI,1,Satisfied
+9/14/2022 15:40:39,TD,28,Female,Student,"New York, USA",BHIM/UPI,BHIM/UPI,Google Pay,75000,UPI,0,Satisfied
+9/13/2022 16:53:58,Anwesha Parida ,28,Female,Service,Odisha,BHIM/UPI,Card,PhonePe,20000,UPI,2,Satisfied
+9/13/2022 17:13:11,DeepeshKuSingh ,30,Male,Other,Odisha,BHIM/UPI,BHIM/UPI,Others,40000,UPI,1,Satisfied
+9/15/2022 15:25:03,Arka Dutta,28,Male,Student,"Ontario, Canada",Card,Card,Others,5000,UPI,1,Average
+9/14/2022 3:39:32,Lokesh kumar J,25,Male,Other,Tamil Nadu,BHIM/UPI,BHIM/UPI,PhonePe,30000,UPI,0,Average
+9/13/2022 18:21:14,Sathiyamoorthi,26,Male,Other,Tamil Nadu,BHIM/UPI,BHIM/UPI,PhonePe,10000,UPI,0,Satisfied
+9/14/2022 19:13:16,Mainak Gupta ,33,Male,Service,Tamil Nadu,BHIM/UPI,Net Banking,Google Pay,1009,UPI,2,Satisfied
+9/13/2022 20:28:04,Manidath,26,Male,Student,Telangana,BHIM/UPI,Card,PhonePe,10000,UPI,0,Satisfied
+9/14/2022 6:47:13,Susheel,26,Male,Service,Telangana,BHIM/UPI,Cash,PhonePe,10000,UPI,0,Satisfied
+9/14/2022 5:39:53,Swapnil tripathi,26,Male,Student,Uttar Pradesh,BHIM/UPI,BHIM/UPI,Google Pay,10000,UPI,1,Satisfied
+9/14/2022 9:09:18,Rohit,33,Male,Student,Uttar Pradesh,BHIM/UPI,Cash,Paytm Payments Bank App,10000,UPI,0.2,Average
+9/15/2022 11:00:37,Soubhik Maji,21,Male,Student,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,15000,UPI,0,Satisfied
+9/15/2022 3:11:50,Swarnadip Majumder,22,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,25000,UPI,1,Average
+9/13/2022 16:22:15,Soumika Sadhya Ray ,24,Female,Service,West Bengal,BHIM/UPI,Cash,Google Pay,10000,UPI,1,Satisfied
+9/13/2022 16:40:35,Srijanee Biswas,25,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,300,UPI,0,Satisfied
+9/16/2022 9:43:34,Manali Dutta,25,Female,Service,West Bengal,BHIM/UPI,Cash,None,0,Cash,1,Unsatisfied
+9/15/2022 11:00:25,Soujatya Das,26,Male,Student,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,10000,UPI,1,Satisfied
+9/13/2022 16:41:44,Subham Bose ,26,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,5000,UPI,0,Satisfied
+9/13/2022 18:52:40,Kurtika Sinha,26,Female,Other,West Bengal,BHIM/UPI,Cash,Google Pay,30000,UPI,1,Satisfied
+9/13/2022 17:08:32,Anubhav Sadhukhan,27,Male,Service,West Bengal,Card,BHIM/UPI,Google Pay,15000,UPI,0,Satisfied
+9/14/2022 3:33:32,Madhumita Biswas,27,Female,Service,West Bengal,BHIM/UPI,Card,Google Pay,5000,UPI,1,Satisfied
+9/14/2022 8:05:09,Arabhi Roy,27,Female,Service,West Bengal,Card,Cash,Google Pay,2000,Cash,0,Average
+9/15/2022 14:45:37,Pulokesh ,27,Male,Student,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,20000,UPI,1,Satisfied
+9/13/2022 16:21:22,Subhrajyoti Basak,28,Male,Student,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,20000,UPI,1,Satisfied
+9/13/2022 16:57:15,Ritankar Dey,28,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,10000,UPI,1,Satisfied
+9/13/2022 20:51:08,Zee,28,Female,Service,West Bengal,BHIM/UPI,Cash,Google Pay,15000,UPI,4,Satisfied
+9/13/2022 16:42:32,Joy Bhowmick,29,Male,Student,West Bengal,BHIM/UPI,Card,Paytm Payments Bank App,5000,UPI,0,Satisfied
+9/13/2022 16:18:08,Tanmay Biswas,33,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,5000,UPI,0,Satisfied
+9/13/2022 17:36:29,Samrat Ghosh Roy,33,Male,Service,West Bengal,BHIM/UPI,Cash,Google Pay,10000,UPI,1,Satisfied
+9/14/2022 8:28:00,Kishor Mishra,39,Male,Service,West Bengal,BHIM/UPI,Cash,None,0,UPI,0,Satisfied
+9/14/2022 0:54:12,Sampreeti Goswami,42,Female,Service,West Bengal,Card,Cash,Others,1000,Cash,1,Satisfied
+9/24/2022 11:49:25,Manashi Sarkar,42,Female,Homemaker,West Bengal,Cash,Cash,None,100,Cash,2,Unsatisfied
+9/15/2022 10:42:26,Tapati Dey,54,Female,Homemaker,West Bengal,Cash,Cash,None,0,Cash,0,Unsatisfied
+9/14/2022 15:39:46,C B,60,Female,Homemaker,West Bengal,Cash,Cash,None,0,Cash,1,Unsatisfied
+9/15/2022 10:43:56,Aloke Dey,62,Male,Service,West Bengal,BHIM/UPI,Card,Google Pay,15000,Cash,1,Average
+9/24/2022 11:50:22,Pranati Dey,62,Female,Homemaker,West Bengal,Cash,Cash,None,0,Cash,1,Unsatisfied
+9/14/2022 15:38:31,K R Basak,64,Male,Other,West Bengal,Cash,Cash,Google Pay,5000,Cash,2,Average
+9/14/2022 17:47:04,J B,74,Female,Other,West Bengal,Cash,Cash,None,0,Cash,0,Unsatisfied
+9/25/2022 15:34:41,IPSHEETHA NATH ,20,Female,Student,West Bengal,BHIM/UPI,Card,Google Pay,5000,Cash,1,Satisfied
+9/13/2022 16:50:38,Swastika Chakraborty ,22,Female,Student,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,2000,UPI,1,Satisfied
+9/13/2022 18:11:59,Rudra,22,Male,Student,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,2000,UPI,1,Satisfied
+9/15/2022 3:21:52,Avinandan Chatterjee ,22,Male,Business,West Bengal,BHIM/UPI,Cash,Paytm Payments Bank App,5000,UPI,1,Satisfied
+9/15/2022 15:05:11,Tanusha Mondal,23,Female,Service,West Bengal,BHIM/UPI,Cash,Google Pay,1000,Cash,1,Average
+9/13/2022 14:47:53,AKASH DEY,24,Male,Student,West Bengal,BHIM/UPI,Cash,Google Pay,15000,Cash,1,Satisfied
+9/13/2022 16:25:10,Ankita Sengupta ,24,Female,Student,West Bengal,Cash,Cash,None,1500,Cash,0,Unsatisfied
+9/13/2022 17:20:26,Dipam Sarkar ,24,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,10000,UPI,1,Satisfied
+9/13/2022 17:41:44,Trishita Mitra,24,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,Paytm Payments Bank App,500,UPI,1,Satisfied
+9/14/2022 6:21:14,Anshumita Mondal ,24,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,500,UPI,1,Satisfied
+9/15/2022 4:49:58,Kishore Dipra Dutta,24,Male,Student,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,8000,UPI,1,Satisfied
+9/13/2022 17:59:20,Trisha Chakraborty ,25,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,500,UPI,1,Satisfied
+9/13/2022 16:24:19,Raktim Dhar ,25,Male,Service,West Bengal,BHIM/UPI,Cash,Paytm Payments Bank App,12000,UPI,1,Satisfied
+9/13/2022 17:44:12,Priyanka Saha ,25,Female,Service,West Bengal,Card,Cash,None,1000,Cash,1,Unsatisfied
+9/14/2022 7:07:10,Soutrik Mukherjee ,25,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,5000,UPI,1,Satisfied
+9/13/2022 16:32:24,Sananda Banerjee ,26,Female,Business,West Bengal,Cash,Cash,None,5000,Cash,0,Average
+9/13/2022 17:09:14,Shreya Mukherjee,26,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,10000,UPI,1,Average
+9/13/2022 17:57:59,Sanjana Ghosh,26,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,5000,UPI,1,Satisfied
+9/13/2022 18:13:31,Monalisha Das,26,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,3000,UPI,1,Average
+9/14/2022 2:28:07,Spandan Chakraborty ,26,Male,Service,West Bengal,BHIM/UPI,Card,Google Pay,4000,Cash,3,Average
+9/14/2022 3:15:47,Clara ,26,Female,Service,West Bengal,Card,Card,Google Pay,5000,Cash,1,Satisfied
+9/14/2022 5:02:40,Subrata Maity ,26,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,100000,UPI,5,Satisfied
+9/13/2022 16:55:42,Gourab Kundu ,27,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,10000,UPI,1,Average
+9/14/2022 5:07:52,Sreeparna Choudhury ,27,Female,Service,West Bengal,Net Banking,Card,Google Pay,100000,UPI,4,Average
+9/14/2022 5:27:33,Ashutosh Pradhan ,27,Male,Student,West Bengal,BHIM/UPI,Cash,Google Pay,10000,UPI,2,Satisfied
+9/13/2022 16:54:53,Manas Biswas ,27,Male,Service,West Bengal,BHIM/UPI,Cash,PhonePe,20000,UPI,1,Satisfied
+9/13/2022 17:17:36,Debaleena De,27,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,10000,UPI,1,Satisfied
+9/13/2022 19:00:26,Avik Vidyanta ,27,Male,Service,West Bengal,Net Banking,BHIM/UPI,PhonePe,3000,UPI,1,Satisfied
+9/13/2022 16:37:09,PRODYUT Biswas ,28,Male,Service,West Bengal,BHIM/UPI,Card,Paytm Payments Bank App,1000000,UPI,5,Satisfied
+9/13/2022 18:46:07,Shreyam,28,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,10000,UPI,1,Satisfied
+9/13/2022 17:38:06,Arjun Mehera,29,Male,Service,West Bengal,BHIM/UPI,Card,Google Pay,40000,Cash,0,Satisfied
+9/18/2022 13:32:47,Arka Bhattacharyya,29,Male,Service,West Bengal,Card,Card,PhonePe,15000,UPI,1,Satisfied
+9/14/2022 16:27:10,Soumya Chatterjee ,30,Male,Student,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,25000,UPI,1,Satisfied
+9/13/2022 18:36:09,Sayanti,31,Female,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,15000,UPI,1,Satisfied
+9/13/2022 17:43:36,Rajesh kumar,33,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,Google Pay,5000,UPI,1,Satisfied
+9/13/2022 16:51:40,Kalpitaraj Dutta,34,Male,Service,West Bengal,Net Banking,Net Banking,PhonePe,15000,Cash,1,Satisfied
+9/14/2022 4:38:39,Arindam Roy ,34,Male,Service,West Bengal,Card,Card,Google Pay,5000,UPI,1,Satisfied
+9/13/2022 17:30:37,Susovan Fadikar ,35,Male,Service,West Bengal,BHIM/UPI,Card,PhonePe,20000,UPI,1,Satisfied
+9/13/2022 18:07:52,Samik Sen ,36,Male,Service,West Bengal,BHIM/UPI,Card,Google Pay,50000,Cash,0,Satisfied
+9/14/2022 4:56:30,PICKLU MANDAL,39,Male,Service,West Bengal,BHIM/UPI,BHIM/UPI,PhonePe,5000,UPI,0,Satisfied
+9/13/2022 19:12:09,Siddhartha Sankar Ghosh ,40,Male,Service,West Bengal,BHIM/UPI,Net Banking,Google Pay,10000,UPI,0,Satisfied
+9/13/2022 18:50:04,DRaj,42,Male,Service,West Bengal,BHIM/UPI,Card,PhonePe,20000,Cash,1,Satisfied
+9/13/2022 16:49:10,Mithun Ranjan Bakchi ,43,Male,Service,West Bengal,Card,Card,PhonePe,30000,UPI,1,Satisfied
+9/13/2022 18:22:30,Sulata mondal,43,Female,Other,West Bengal,Cash,Net Banking,Google Pay,500,Cash,2,Satisfied
+9/14/2022 4:15:01,Pradeep Kumar Sarkar ,54,Male,Service,West Bengal,Card,Cash,PhonePe,20000,Cash,1,Average
